@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\2023\\SpecflowBDDFramework\\Repo\\SpecFlowBDDAutomationFramework\\SpecFlowBDDAutomationFramework.csproj": {}
+    "C:\\Users\\Hitesh\\source\\repos\\SpecFlowBDDAutomationFramework\\SpecFlowBDDAutomationFramework.csproj": {}
   },
   "projects": {
-    "E:\\2023\\SpecflowBDDFramework\\Repo\\SpecFlowBDDAutomationFramework\\SpecFlowBDDAutomationFramework.csproj": {
+    "C:\\Users\\Hitesh\\source\\repos\\SpecFlowBDDAutomationFramework\\SpecFlowBDDAutomationFramework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\2023\\SpecflowBDDFramework\\Repo\\SpecFlowBDDAutomationFramework\\SpecFlowBDDAutomationFramework.csproj",
+        "projectUniqueName": "C:\\Users\\Hitesh\\source\\repos\\SpecFlowBDDAutomationFramework\\SpecFlowBDDAutomationFramework.csproj",
         "projectName": "SpecFlowBDDAutomationFramework",
-        "projectPath": "E:\\2023\\SpecflowBDDFramework\\Repo\\SpecFlowBDDAutomationFramework\\SpecFlowBDDAutomationFramework.csproj",
-        "packagesPath": "C:\\Users\\Bakkappa N\\.nuget\\packages\\",
-        "outputPath": "E:\\2023\\SpecflowBDDFramework\\Repo\\SpecFlowBDDAutomationFramework\\obj\\",
+        "projectPath": "C:\\Users\\Hitesh\\source\\repos\\SpecFlowBDDAutomationFramework\\SpecFlowBDDAutomationFramework.csproj",
+        "packagesPath": "C:\\Users\\Hitesh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hitesh\\source\\repos\\SpecFlowBDDAutomationFramework\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Bakkappa N\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Hitesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -46,23 +46,23 @@
             },
             "FluentAssertions": {
               "target": "Package",
-              "version": "[6.2.0, )"
+              "version": "[6.9.0, )"
             },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[17.0.0, )"
+              "version": "[17.4.1, )"
             },
             "NUnit3TestAdapter": {
               "target": "Package",
-              "version": "[4.1.0, )"
+              "version": "[4.3.1, )"
             },
             "Selenium.WebDriver": {
               "target": "Package",
-              "version": "[4.6.0, )"
+              "version": "[4.8.0, )"
             },
             "SpecFlow.NUnit": {
               "target": "Package",
-              "version": "[3.9.40, )"
+              "version": "[3.9.74, )"
             },
             "SpecFlow.Plus.LivingDocPlugin": {
               "target": "Package",
@@ -70,7 +70,7 @@
             },
             "nunit": {
               "target": "Package",
-              "version": "[3.13.2, )"
+              "version": "[3.13.3, )"
             }
           },
           "imports": [
@@ -79,7 +79,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -88,7 +89,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
